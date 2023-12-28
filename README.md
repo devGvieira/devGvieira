@@ -4,6 +4,16 @@
 
 ### Hi there 👋
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-instagram-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+
 - 🔭 I’m currently working on data science, mostly on intelligent algorithms.
 - 🌱 I’m currently learning PINNs and FCNs.
 - 👯 I’m looking to collaborate on ...
