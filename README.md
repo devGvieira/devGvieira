@@ -23,3 +23,7 @@
 - :handshake: I’m willing to collaborate on AI and data science projects;
 - :thought_balloon: Fun fact: I am graduated on physics and I currently work with data science, but I have also worked for 6+ years on teaching not only physics, but also mathematics, English, history, phylosophy, sociology, geography and even arts.
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+
+</div>
