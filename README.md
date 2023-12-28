@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/devgvieira">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/g_briel.vieira?igsh=MTM4dnE5MmE5Y3ZkaA==">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -14,13 +14,12 @@
 <img src="https://komarev.com/ghpvc/?username=devGvieira&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hello, fellow developer!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🔭 I’m currently working on data science, mostly on intelligent algorithms.
-- 🌱 I’m currently learning PINNs and FCNs.
-- 👯 I’m looking to collaborate on ...
-
+- 🔭 I’m currently working on data science, mostly on intelligent algorithms;
+- 🌱 I’m currently learning PINNs and FCNs;
+- 👯 I’m looking to collaborate on AI and data science projects;
 - ⚡ Fun fact: I am graduated on physics and I currently work with data science, but I have worked for 6+ years on teaching not only physics, but also mathematics, English, history, phylosophy, sociology, geography and even arts.
 
