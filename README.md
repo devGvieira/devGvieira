@@ -18,8 +18,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🔭 I’m currently working on data science, mostly on intelligent algorithms;
-- 🌱 I’m currently learning PINNs and FCNs;
-- 👯 I’m looking to collaborate on AI and data science projects;
-- ⚡ Fun fact: I am graduated on physics and I currently work with data science, but I have worked for 6+ years on teaching not only physics, but also mathematics, English, history, phylosophy, sociology, geography and even arts.
+- :chart_with_upwards_trend: I'm currently working on Data Science using intelligent algorithms;
+- :bookmark: The AI architectures I am currently studying are PINNs and FCNs;
+- :handshake: I’m willing to collaborate on AI and data science projects;
+- :thought_balloon: Fun fact: I am graduated on physics and I currently work with data science, but I have also worked for 6+ years on teaching not only physics, but also mathematics, English, history, phylosophy, sociology, geography and even arts.
 
