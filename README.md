@@ -18,6 +18,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :man_technologist: About Me :
+
 - :chart_with_upwards_trend: I'm currently working on Data Science using intelligent algorithms;
 - :bookmark: The AI architectures I am currently studying are PINNs and FCNs;
 - :handshake: I’m willing to collaborate on AI and data science projects;
