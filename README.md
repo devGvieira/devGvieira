@@ -23,7 +23,7 @@
 - :chart_with_upwards_trend: I'm currently working on Data Science using intelligent algorithms;
 - :bookmark: The AI architectures I am currently studying are PINNs and FCNs;
 - :handshake: I’m willing to collaborate on AI and data science projects;
-- :thought_balloon: Fun fact: I have never paid to study, all knowledge acquired by me came from either scholarships or free courses.
+- :thought_balloon: *Fun fact*: I have never paid to study, all knowledge acquired by me came from either scholarships or free courses.
   
 ---
 
