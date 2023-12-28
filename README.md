@@ -23,8 +23,8 @@
 - :chart_with_upwards_trend: I'm currently working on Data Science using intelligent algorithms;
 - :bookmark: The AI architectures I am currently studying are PINNs and FCNs;
 - :handshake: I’m willing to collaborate on AI and data science projects;
-- :thought_balloon: Fun fact: I am graduated on physics and I currently work with data science, but I have also worked for 6+ years on teaching not only physics, but also mathematics, English, history, phylosophy, sociology, geography and even arts.
-
+- :thought_balloon: Fun fact: Although I am graduated on physics, I have also worked for 6+ years on teaching not only physics, but also mathematics, English, history, phylosophy, sociology, geography and even arts.
+- 
 ---
 
 ### :hammer_and_wrench: Languages and Frameworks :
