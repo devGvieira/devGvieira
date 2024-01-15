@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
   <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" title="TensorFlow" alt="TensorFlow" width="70" height="70"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQlite" alt="SQlite" width="70" height="50"/>&nbsp;
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="Streamlit" alt="Streamlit" width="75" height="65"/>&nbsp
   <img src="https://bashlogo.com/img/logo/svg/full_colored_light.svg" title="Bash" alt="Bash" width="75" height="50"/>&nbsp;
