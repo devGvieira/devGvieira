@@ -34,7 +34,7 @@
   <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
   <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
-  <img src="[https://bashlogo.com/img/logo/svg/full_colored_light.svg](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)" title="Bash" alt="Streamlit" width="75" height="75"/>&nbsp
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" title="Streamlit" alt="Streamlit" width="75" height="75"/>&nbsp
   <img src="https://bashlogo.com/img/logo/svg/full_colored_light.svg" title="Bash" alt="Bash" width="75" height="75"/>&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="45" height="45"/>&nbsp;
