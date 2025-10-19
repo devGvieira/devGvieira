@@ -14,16 +14,15 @@
 <img src="https://komarev.com/ghpvc/?username=devGvieira&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hello, fellow developer!
+  Hey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :man_technologist: About Me :
 
-- :chart_with_upwards_trend: I'm currently working with data science using intelligent algorithms;
-- :bookmark: The AI architectures I am currently studying are PINNs and FCNs;
-- :handshake: I’m willing to collaborate on AI and data science projects;
-- :thought_balloon: *Fun fact*: I have never paid to study, all knowledge acquired by me came from either scholarships or free courses.
+- :chart_with_upwards_trend: I'm currently working on the development of an AI Platform;
+- :bookmark: On the matter of archictectures, I focus on SOLID principles while balancing between Cloud and On-Premises solutions;
+- :handshake: I’m willing to collaborate on AI and data science discussions;
   
 ---
 
